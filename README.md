@@ -21,8 +21,8 @@ Nuestra API permite realizar las siguientes acciones:
 - **Java 17**
 - **Spring Boot**
 - **Spring Data JPA**
-- **Base de datos H2/MySQL** (según configuración)
-- **Maven/Gradle** (gestor de dependencias)
+- **Base de datos MySQL** (según configuración)
+- **Maven** (gestor de dependencias)
 
 ## Instalación y Ejecución
 
