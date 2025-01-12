@@ -37,7 +37,7 @@ public class TopicController {
     }
 
     @GetMapping
-    public ResponseEntity<Page<DataListTopic>> listAllTopics(@PageableDefault(size = 5)
+    public ResponseEntity<Page<DataListTopic>> listAllTopics(@PageableDefault(size = 10)
                                                                  @SortDefault(sort = "timestamp",
                                                                          direction = Sort.Direction.ASC)
             Pageable pageable){
