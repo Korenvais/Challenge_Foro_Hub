@@ -28,7 +28,7 @@ Nuestra API permite realizar las siguientes acciones:
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone https://github.com/tu_usuario/foro-hub.git
+   git clone https://github.com/Korenvais/foro-hub.git
    cd foro-hub
    ```
 
